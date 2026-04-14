@@ -1,0 +1,21 @@
+review_id,booking_id,review_date,rating_overall,rating_cleanliness,rating_service,review_text
+1,B1000,2026-03-21 05:53:15,6,1,1,  Overall a pleasant stay.
+2,B1001,2026-03-29 20:17:05,3,3,1,Fantastic location!     
+3,B1002,2026-03-20 00:53:42,10,3,4,    Not worth the price.
+4,B1003,2026-03-27 09:10:25,10,5,4,    Exceptional experience!
+5,B1004,2026-03-28 14:42:06,7,5,7,Would not recommend.   
+6,B1005,2026-03-25 06:43:08,10,9,1,  Overall a pleasant stay.
+7,B1006,2026-03-28 18:12:46,2,2,8,     Restaurant food was delicious.
+8,B1007,2026-03-29 20:24:02,6,2,6,    Not worth the price.
+9,B1008,2026-03-26 21:23:44,7,10,3,Loved the atmosphere and design.   
+10,B1009,2026-03-14 09:39:35,1,4,4,    Exceptional experience!
+11,B1010,2026-03-27 17:39:03,4,4,1,     Amazing spa and facilities!
+12,B1011,2026-03-24 12:57:25,5,10,10,  Overall a pleasant stay.
+13,B1012,2026-03-27 04:02:05,10,3,4,     Restaurant food was delicious.
+14,B1013,2026-03-23 02:17:14,3,7,10,Would not recommend.   
+15,B1014,2026-03-23 02:58:37,4,8,6,"Service was excellent, would come again.   "
+16,B1015,2026-03-24 22:40:44,8,9,2,Loved the atmosphere and design.   
+17,B1016,2026-03-28 02:18:11,3,6,7,     Amazing spa and facilities!
+18,B1017,2026-03-26 15:22:30,9,7,1,     Restaurant food was delicious.
+19,B1018,2026-03-21 13:36:17,7,7,8,Decent experience but room was a bit small.     
+20,B1019,2026-03-28 18:22:32,8,1,10,Staff were friendly and helpful.   

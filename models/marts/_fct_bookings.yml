@@ -1,0 +1,29 @@
+version: 2
+
+models:
+  - name: fct_bookings
+    description: "Fact table for all hotel bookings including calculated total revenue."
+    columns:
+      - name: booking_id
+        tests:
+          - unique
+          - not_null
+
+      - name: guest_id
+        tests:
+            - relationships:
+                arguments:
+                  to: ref('dim_guests')
+                  field: guest_id
+
+      - name: status_id
+        tests:
+            - relationships:
+                arguments:
+                  to: ref('dim_booking_statuses')
+                  field: status_id
+
+      - name: total_total
+        description: "The final calculated revenue for the booking."
+        tests:
+          - not_null

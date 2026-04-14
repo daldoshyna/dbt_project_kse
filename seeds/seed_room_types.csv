@@ -1,0 +1,5 @@
+room_type_id,category,bed_count,max_occupancy,has_balcony,has_view,has_air_conditioning,has_minibar
+1,Budget,1,2,False,False,True,False
+2,Standard,1,2,False,True,True,True
+3,Deluxe,2,3,True,True,True,True
+4,Suite,2,4,True,True,True,True
